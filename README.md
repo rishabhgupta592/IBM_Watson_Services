@@ -1,5 +1,5 @@
 # IBM_Watson_Services
-IBM Watson Services
+IBM Watson Services using Python notebook
 
 IBM NLU :
 * Keywords
